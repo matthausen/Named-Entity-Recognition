@@ -1,6 +1,6 @@
 # Named-Entity-Recognition
 
-An example of how NLTK can be used for Named Entity Recognition (NER) and text Summarization
+An example of how NLTK and Spacey can be used for Named Entity Recognition (NER), word tokenization and text Summarization
 
 ### Requirements:
 
